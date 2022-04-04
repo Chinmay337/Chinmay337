@@ -26,13 +26,8 @@
 ![Express](https://img.shields.io/badge/-Express-2b8a3e?style=flat-square&logo=express)
 ![Gin](http://img.shields.io/badge/-Gin-3190d1?style=flat-square&logo=go&logoColor=white)
 
-![AWS](https://img.shields.io/badge/-aws-white?style=flat-square&logo=amazon)
+![AWS](https://img.shields.io/badge/-AWS-white?style=flat-square&logo=amazon)
 ![Gin](http://img.shields.io/badge/-Gin-3190d1?style=flat-square&logo=go&logoColor=white)
-
-![HTML5](http://img.shields.io/badge/-HTML-e24c27?style=flat-square&logo=html5&logoColor=white)
-![CSS3](http://img.shields.io/badge/-CSS-2a65f1?style=flat-square&logo=css3&logoColor=white)
-![SASS](http://img.shields.io/badge/-SASS-cc6699?style=flat-square&logo=sass&logoColor=white)
-![LESS](http://img.shields.io/badge/-LESS-254c7d?style=flat-square&logo=less&logoColor=white)
 
 ![SQL](http://img.shields.io/badge/-SQL-00758f?style=flat-square&logo=Mysql&logoColor=white)
 ![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
@@ -45,9 +40,14 @@
 ![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white)
 
+![HTML5](http://img.shields.io/badge/-HTML-e24c27?style=flat-square&logo=html5&logoColor=white)
+![CSS3](http://img.shields.io/badge/-CSS-2a65f1?style=flat-square&logo=css3&logoColor=white)
+![SASS](http://img.shields.io/badge/-SASS-cc6699?style=flat-square&logo=sass&logoColor=white)
+![LESS](http://img.shields.io/badge/-LESS-254c7d?style=flat-square&logo=less&logoColor=white)
+
 ![Redis](http://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis)
 ![MongoDb](http://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
-![PostGres](https://img.shields.io/badge/-PostgreSQL-a5d8ff?style=flat-square&logo=postgresql)
+![PostGres](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
 ![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&logo=elasticsearch&logoColor=black)
 
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
@@ -61,4 +61,5 @@
 ### 💬 Contact Me
 
 </br>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin)](https://www.linkedin.com/in/chinmay-bhelke-2717a6178/)
