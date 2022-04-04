@@ -8,13 +8,15 @@
 - Focus on Distributed Architecture , Scalability , Microservices , and Clean Architecture
 - Have knowledge and experience in <b>Frontend , Backend , DevOps ,</b> and <b>Cloud Engineering</b> for <b>Web Applications</b>
 
-### 🛠 Tech Stack
+### Tech Stack
+
+</br>
 
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Golang](http://img.shields.io/badge/-Golang-69d7e4?style=flat-square&logo=go&logoColor=black)
 ![Javascript](http://img.shields.io/badge/-JavaScript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
-![NodeJS](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJS-087f5b?style=flat-square&logo=Node.js&logoColor=white)
 
 ![React](https://img.shields.io/badge/-React-254c7d?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-9775fa?style=flat-square&logo=redux)
@@ -35,11 +37,11 @@
 ![SQL](http://img.shields.io/badge/-SQL-00758f?style=flat-square&logo=Mysql&logoColor=white)
 ![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
 ![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
-![PHP](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
+![PHP](http://img.shields.io/badge/-PHP-767bb3?style=flat-square&logo=php&logoColor=white)
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
 
 ![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
-![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
+![Nginx](http://img.shields.io/badge/-NGINX-2b9900?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white)
 
@@ -51,8 +53,12 @@
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![NPM](http://img.shields.io/badge/-NPM-white?style=flat-square&logo=npm&logoColor=white)
 
-![VS Code](http://img.shields.io/badge/-VS%20Code-868e96?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
+![VS Code](http://img.shields.io/badge/-VS%20Code-343a40?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
+
+<hr>
+<hr>
 
 ### 💬 Contact Me
 
+</br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin)](https://www.linkedin.com/in/chinmay-bhelke-2717a6178/)
